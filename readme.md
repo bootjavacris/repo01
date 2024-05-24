@@ -10,5 +10,8 @@
     git branch -M main
     git push -u origin main
    ```
-   7. Ahora aparece porque con git remote hemos añadido el repositorio de github, hemos hecho que apunte ahí.
-   8. 
+7. Ahora aparece porque con git remote hemos añadido el repositorio de github, hemos hecho que apunte ahí.
+8. Subo los cambios al repositorio haciendo primero el add . -> commit -> push
+9. Se han subido mis cambios, y se ven mis commits.
+
+ 
